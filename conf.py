@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "IObit Advanced SystemCare Ultimate Pro Download: Complete Installation & Activation Tutorial"
+html_title = "IJ Start Canon Setup Process: Complete Step-by-Step Guide for Canon Printer and Scanner Setup"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
